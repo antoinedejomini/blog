@@ -13,4 +13,3 @@ current="`date +'%Y-%m-%d %H:%M:%S'`"
 msg="Updated: $current"
 git commit -m "wip $branch $msg"
 git push -f origin $branch
-t
