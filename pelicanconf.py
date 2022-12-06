@@ -1,6 +1,6 @@
 AUTHOR = 'Antoine De Jomini'
 SITENAME = 'GameDesignAndWargame'
-SITEURL = ''
+SITEURL = 'https://antoinedejomini.github.io/blog/'
 
 PATH = 'content'
 
